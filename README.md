@@ -1,2 +1,2 @@
 # Projeto01LojaDeInformatica
-Repositorio
+Repositório contendo os códigos do projeto 01 - Loja de Informática do Professor Obama
